@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/greatmerlin/todo-react.git/static/css/main.2d486554.css",
+    "main.js": "/greatmerlin/todo-react.git/static/js/main.03732a61.js",
+    "static/js/787.80db1fd1.chunk.js": "/greatmerlin/todo-react.git/static/js/787.80db1fd1.chunk.js",
+    "index.html": "/greatmerlin/todo-react.git/index.html",
+    "main.2d486554.css.map": "/greatmerlin/todo-react.git/static/css/main.2d486554.css.map",
+    "main.03732a61.js.map": "/greatmerlin/todo-react.git/static/js/main.03732a61.js.map",
+    "787.80db1fd1.chunk.js.map": "/greatmerlin/todo-react.git/static/js/787.80db1fd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d486554.css",
+    "static/js/main.03732a61.js"
+  ]
+}
