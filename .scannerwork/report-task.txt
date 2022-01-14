@@ -1,0 +1,6 @@
+projectKey=react-todo-sonar
+serverUrl=http://localhost:9000
+serverVersion=9.2.4.50792
+dashboardUrl=http://localhost:9000/dashboard?id=react-todo-sonar
+ceTaskId=AX5aIpP4cgoBO6asQ1W4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX5aIpP4cgoBO6asQ1W4
